@@ -35,5 +35,5 @@ function mergeSort(list) {
     return rec(list);
 }
 
-const res = mergeSort(arr94);
-console.log(res)
+const res94 = mergeSort(arr94);
+console.log(res94)
